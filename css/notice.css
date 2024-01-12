@@ -1,0 +1,17 @@
+@charset "utf-8";
+#container{
+    background: url(../images/notice.jpg);
+    width: 250px;
+    height: 375px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+h1{
+    margin-bottom: 30px;
+    font-size: 30px;
+    
+}
